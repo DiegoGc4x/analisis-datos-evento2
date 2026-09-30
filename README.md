@@ -10,7 +10,7 @@
 - Juan Pablo Vasquez Tobon
 - Sergio Alvarez Hernandez
 
-📹 **Video:** 
+📹 **Video:** _(pegar enlace)_
 
 ---
 
@@ -30,7 +30,6 @@ Explorar varias bases de datos, justificar la elección de una, hacer un anális
 │   └── 03_preprocesamiento_reduccion.ipynb  # Fase 3
 ├── reports/figures/         # todas las gráficas exportadas
 ├── src/utils.py             # rutas y funciones compartidas (outliers, guardado de figuras)
-├── docs/                    # guion del video y plan de trabajo en Git
 └── requirements.txt
 ```
 
