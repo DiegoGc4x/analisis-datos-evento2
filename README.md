@@ -10,7 +10,7 @@
 - Juan Pablo Vasquez Tobon
 - Sergio Alvarez Hernandez
 
-📹 **Video:** _(pegar enlace)_
+**Video:** [Ver video en YouTube](https://youtu.be/BHiJ4O1mWec)
 
 ---
 
